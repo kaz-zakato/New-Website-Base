@@ -1,0 +1,9 @@
+/*Site Builder Administration CSS file */
+body { padding-top: 70px; }
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus{
+	background-color:#428bca;
+	color:#ffffff;
+	text-decoration: none;
+	display:block;
+}

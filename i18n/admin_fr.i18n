@@ -1,0 +1,8 @@
+admin.navbar.pages=Pages
+admin.navbar.contents=Contenus
+admin.navbar.users=Utilisateurs
+admin.navbar.modules=Extensions
+admin.navbar.settings=Paramètre
+admin.navbar.userInformation=Paramétres utilisateurs
+admin.navbar.serverSettings=Paramétres serveur
+admin.navbar.disconnect=Déconnexion

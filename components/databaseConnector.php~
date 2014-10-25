@@ -1,0 +1,21 @@
+<?php
+/**
+This function open a database connexion and return the database object($SB_DB)
+*/
+function databaseOpen(){
+    $SB_DB; = mysql_connect("localhost", "mysql_user", "mysql_password")
+    or die("Impossible de se connecter : " . mysql_error());
+    mysql_select_db('nom_de_la_base',$db);
+    return $SB_DB;
+}
+
+/**
+  This function close a database connexion
+  $SB_DB : The database connection object
+*/
+function databaseClose($SB_DB){
+  mysql_close($SB_DB);
+}
+
+?>
+

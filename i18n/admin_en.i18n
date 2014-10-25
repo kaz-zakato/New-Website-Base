@@ -1,0 +1,8 @@
+admin.navbar.pages=Pages
+admin.navbar.contents=Contents
+admin.navbar.users=Users
+admin.navbar.modules=Modules
+admin.navbar.settings=Settings
+admin.navbar.userInformation=User Information
+admin.navbar.serverSettings=Server Settings
+admin.navbar.disconnect=Disconnect
